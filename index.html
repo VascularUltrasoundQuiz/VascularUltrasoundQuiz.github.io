@@ -34,7 +34,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "1406795116";
+    const serviceWorkerVersion = "2023725744";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -51,15 +51,7 @@
           let config = { renderer: 'auto' };
           engineInitializer.initializeEngine(config).then(function(appRunner) {
             appRunner.runApp();
-          }).then(function (_) {
-            const flutterRoot = document.getElementsByTagName('flt-glass-pane').item(0);
-            flutterRoot.addEventListener('touchstart', (e) => {
-            // is not near edge of view, exit
-            if (e.pageX > 24 && e.pageX < window.innerWidth - 24) return;
-            // prevent swipe to navigate gesture
-            e.preventDefault();
           });
-        });
         }
       });
     });
