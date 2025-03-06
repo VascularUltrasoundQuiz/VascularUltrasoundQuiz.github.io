@@ -24,6 +24,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   <meta name="apple-mobile-web-app-title" content="Vascular Ultrasound Quiz App">
+  <meta name="google-site-verification" content="HXSWu2Xp6EiG8bWGhlgIXEGO5woBR3KBPfD4rpvjTEw" />
   <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
   <!-- Favicon -->
@@ -34,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "3301784184";
+    const serviceWorkerVersion = "271343555";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -48,7 +49,7 @@
           serviceWorkerVersion: serviceWorkerVersion,
         },
         onEntrypointLoaded: function(engineInitializer) {
-          let config = { renderer: 'auto' };
+          let config = { renderer: 'html' };
           engineInitializer.initializeEngine(config).then(function(appRunner) {
             appRunner.runApp();
           });
