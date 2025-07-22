@@ -1,11 +1,11 @@
 {
-    "name": "quiz_app_git_kopie",
-    "short_name": "quiz_app_git_kopie",
+    "name": "Vascular Ultrasound Quiz App",
+    "short_name": "Vascular Ultrasound Quiz App",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "uni_klinik_app",
+    "description": "Vascular Ultrasound Quiz App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
