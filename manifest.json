@@ -1,11 +1,11 @@
 {
-    "name": "Vascular Ultrasound Quiz App",
-    "short_name": "Vascular Ultrasound Quiz App",
+    "name": "vascularquizappallquestionsoffline",
+    "short_name": "vascularquizappallquestionsoffline",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Vascular Ultrasound Quiz App",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
