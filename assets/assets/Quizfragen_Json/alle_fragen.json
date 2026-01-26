@@ -3,9 +3,9 @@
     "all",
     {
       "correctOptionIndex": 1,
-      "explanationDE": "Dies ist eine Test Erklärung.",
-      "explanationEN": "This an example explanation.",
-      "explanationFR": "Ceci est une déclaration de test.",
+      "explanationDE": "Aufgrund der Position des Schallkopfes sind zwar häufig Venen blau und Arterien rot dargestellt, aber In diesem Bild ist nicht klar, wie der Schallkopf während der Untersuchung positioniert war. Deshalb lässt sich anhand der Färbung keine Aussage über die Art der Gefäße, sondern nur ü ber die Blutflussrichtung treffen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/1.jpg",
       "optionsDE": [
@@ -32,9 +32,9 @@
     },
     {
       "correctOptionIndex": 0,
-      "explanationDE": "Die Abbildung zeigt kein B-Bild, da es einen farbigen Bereich, sowie eine Blutflussgeschwindigkeitskurve, ermittelt durch die Doppler-Sonographie, zeigt. Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Die Aorta wird typischerweise mit einem Konvexschallkopf dargestellt, was hier nicht der Fall ist.",
+      "explanationDE": "Die Abbildung zeigt kein B-Bild, da es einen farbigen Bereich, sowie eine Blutflussgeschwindigkeitskurve, ermittelt durch die Doppler-Sonographie, zeigt. Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Die Aorta würde Seitäste abgeben und hätte typischerweise einen geraderen Verlauf.",
       "explanationEN": "This an example explanation.",
-      "explanationFR": "Ceci est une déclaration de test.",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"2\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/2.png",
       "optionsDE": [
@@ -61,6 +61,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Aufgrund des pulsatilen Charakters der Blutflussgeschwindigkeitskurven sind diese Arterien zuzuordnen. Kurve 1 zeigt den typischen Verlauf eines peripheren Gefäßes, während Kurve 2 den typischen Verlauf eines proximalen Gefäßes mit geringem Widerstand zeigt (z.B. A. carotis communis). Die Peak systolische Geschwindigkeit lässt sich am höchsten Punkt der jeweiligen Kurven ablesen: Kurve 1 ca. 80cm/s, Kurve 2 ca. 60cm/s. Turbulente Flussgeschwindigkeiten sind meist deutlich höher, bis zu 200cm/s.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/3.png",
       "optionsDE": [
@@ -87,6 +90,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Durch die „Invert“-Funktion lassen sich die dargestellten Farben umkehren. Da hier die Färbung also ursprünglich blau war, fließt das Blut tatsächlich vom Schallkopf weg.\nDie Signale der Vene sind atemabhängig und zeigen keinen pulsatilen Verlauf.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/4.jpg",
       "optionsDE": [
@@ -114,6 +120,9 @@
     {
       "correctOptionIndex": 3,
       "id": "\"5\"",
+      "explanationDE": "Der frühdiastolische Rückfluss (Dip) kommt physiologisch dadurch zustande, dass das Blut aufgrund des Schlusses der Aortenklappe und der elastischen Rückstellung der Gefäßwände kurzzeitig retrograd fließt.\nDie peak-systolische Flussgeschwindigkeit ist die höchste Geschwindigkeit, mit der das Blut in der Systole durch eine Arterien fließt. Sie kann an der rechts im Bild dargestellten Skala abgelesen werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/5.jpg",
       "optionsDE": [
         "Diese Abbildung zeigt das sogenannte triphasische  Dopplersignal einer Arterie.",
@@ -140,6 +149,9 @@
     {
       "correctOptionIndex": 1,
       "id": "\"6\"",
+      "explanationDE": "Pulsatil beschreibt eine arterielle Flusskurve, bei der ein deutlich rhythmisches Signal mit den typischen Phasen der Geschwindigkeit des Herzzyklus erkannt werden kann(Beispiel: Kurve 1). In Kurve 2 hingegen, sieht man einen fast gleichmäßigen, kontinuierlichen Blutfluss, bei dem die Werte nahe an der Nulllinie liegen, das Blut also geringe Geschwindigkeiten annimmt. Das entspricht am ehesten der Flusskurve einer Vene, da diese atemabhängig ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/6.png",
       "optionsDE": [
         "Beide Kurven stellen eindeutig ein arterielles Gefäß dar.",
@@ -193,6 +205,9 @@
     {
       "correctOptionIndex": 1,
       "id": "\"8\"",
+      "explanationDE": "In der unten abgebildeten Flusskurve ist ein typische Dopplersignal der A. Carotis communis zu sehen. Pfeil 1 zeigt auf die peak-systolische Geschwindigkeit. Pfeil 2 und 4 zeigen auf die Diastole. Die Klammer bei 3 zeigt die Systole an. Diese Flusskurve muss deutlich von einer Flusskurve eines anderen arteriellen Gefäßes unterschieden werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/8.png",
       "optionsDE": [
         "Pfeil 1 zeigt auf den Gipfel der Flusskurve und somit auf die systolische Peak Geschwindigkeit.",
@@ -218,6 +233,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Es handelt sich nicht um die Aorta abdominalis, da diese Seitäste abgeben würde. Solch ein Befund ist typisch für die Arteria carotis communis.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/1.jpg",
       "optionsDE": [
@@ -270,6 +288,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der steile systolische Anstieg spricht dafür, dass es sich um eine Arterie der Extremitäten handelt. Anatomisch lässt sich außerdem ein so gerader Gefäßverlauf eher nicht bei der A. cerebri media bzw. A. coronaria sinistra finden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/3.jpg",
       "optionsDE": [
@@ -296,6 +317,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Das triphasische Dopplersignal ist der Normalbefund bei der Dopplersonographie der Arterien. Die Dopplerkurve besteht aus drei verschiedenen Abschnitten: beginnend mit einem steilen Anstieg wird die Systole sichtbar, darauf folgt ein schneller Abfall der Flussgeschwindigkeit mit einer kurzen Rückflusskomponente (je nach Gefäß) zu Beginn der Diastole. Anschließend erneut ein Vorwärtsfluss, in der späten Diastole.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/4.jpg",
       "optionsDE": [
@@ -322,6 +346,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Die Kurve zeigt ein triphasisches Doppler-Signal. Knochenstrukturen zeigen sich sonographisch echoreich. Der weiße Pfeil zeigt auf eine solche echoreiche knöcherne Struktur nahe der Arterie.\nEine vollständig verschlossene Arterie hätte keinen Blutfluss mehr - hier ist durch die Farbkodierung jedoch definitiv ein Blutfluss zu erkennen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"5\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/5.png",
       "optionsDE": [
@@ -348,6 +375,9 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Sind wie hier zwei Gefäße zu sehen, kann man mithilfe des Dopplersignales und der Blutflussgeschwindigkeitskurve Arterie und Vene unterscheiden. Eine Voraussetzung ist, das Sample Volume in dem Gefäß zu positionieren, das man charakterisieren möchte.\nNeben der A. carotis communis verläuft die V. jugularis interna, nicht die V. jugularis externa. Große Kalkablagerungen sind hier nicht zu sehen. Diese präsentieren sich typischerweise als wandständige, echoreiche -Vorwölbungen-",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"6\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/6.jpg",
       "optionsDE": [
@@ -374,13 +404,16 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Vor einer arteriellen Gefäßengstelle würde man turbulenten Blutfluss (also verschiedene Farben) und hohe Blutflussgeschwindigkeiten erwarten. Wieder zeigt sich ein pulsatiles Signal, weshalb es sich hier nicht um eine Vene handeln kann. Die blaue Farbe hängt von der Position des Schallkopfes während der Untersuchung ab und führt nicht dazu, dass ein Bild nicht interpretierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/7.jpg",
       "optionsDE": [
         "Die Abbildung zeigt eine schwere arterielle Gefäßengstelle an. ",
         "Die gestrichelte Linie im oberen rechten Quandranten der Abbildung zeigt die Messung des Innendurchmessers dieses Gefäßes an.",
-        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäßes, welches im Innendurchmesser eingeengt ist.",
-        "Die Abbildung kann nicht interpretiert werden da eine blaue Farbe im Blutgefäß nicht zu warten war."
+        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäß, welches im Innendurchmesser eingeengt ist.",
+        "Die Abbildung kann nicht interpretiert werden, da eine blaue Farbe im Blutgefäß nicht zu erwarten war."
       ],
       "optionsEN": [
         "A severe narrowing of the blood vessel is shown.",
@@ -400,6 +433,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der periphere Gefäßwiderstand lässt sich anhand der Blutflussgeschwindigkeitskurve ungefähr abschätzen. Sehr steile Kurven gehören zu Gefäßen mit hohem peripherem Gefäßwiderstand, flache Kurven eher zu Gefäßen mit geringerem peripheren Gefäßwiderstand. Hier ist zu erkennen, dass die A. carotis externa eine steilere Kuve, also einen höheren peripheren Gefäßwiderstand, als die A. carotis interna hat. Grund hierfür sind die unterschiedlichen Versorgungsgebiete der Arterien. Mit ca. 50cm/s und 60cm/s sind die PSVs dennoch recht ähnlich.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"8\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/8.png",
       "optionsDE": [
@@ -452,6 +488,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Anhand der Flusskurve kann man bereits abschätzen, dass es sich um ein peripheres Gefäß handeln muss. Zu sehen ist hier also nicht die A. carotis interna, sondern die A. femoralis communis. Ein “Okklusions“-Doppler Signal bedeutet, dass man während der Sonographie von einem Gefäß nur wenige bis stark gedämpfte Signale ableiten kann, beispielsweise aufgrund von Stenosen oder Verengungen. Solch ein Signal ist hier nicht abgebildet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"10\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/10.jpg",
       "optionsDE": [
@@ -478,6 +517,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Die A. carotis communis und die A. vertebralis versorgen beide das Gehirn mit sauerstoffreichem Blut, das vom Herzen kommt. Der Blutfluss findet also nicht gegenläufig sondern in die gleiche Richtung statt. Beim „Subclavian Steel Syndrom“ verlaufen die Blutflüsse der beiden Gefäße gegenläufig, allerdings ist der Befund dann pathologisch.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"11\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/11.png",
       "optionsDE": [
@@ -530,10 +572,13 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Venen haben eine elastischeren Wandaufbau als Arterien und sind oft von der Haut ausgehend, d.h. von außen komprimierbar. Lässt sich das Lumen der Vene durch Kompression mit dem Schallkopf von außen komplett verschließen (B), so ist diese wahrscheinlich nicht thrombotisch verändert. Lässt die Vene sich jedoch nicht komprimieren, kann ein Thrombus im Gefäßlumen vorliegen, da dieser die Vene starr macht und das Lumen füllt, wodurch sie nicht mehr komprimierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/1.png",
       "optionsDE": [
-        "Zu sehen ist im oberen Bild (A) eine offenen Vene.",
+        "Zu sehen ist im oberen Bild (A) eine offene Vene.",
         "Die Befunde beider Bilder lassen auf einen thrombotischen Verschluss  der Vene schließen.",
         "Venen sind beim gesunden Menschen nicht von außen komprimierbar.",
         "Während einer Kompression (Bild B) kann man nicht erkennen, ob die Vene offen oder verstopft ist."
@@ -582,6 +627,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Anhand des Farbsignals alleine lässt sich keine Aussage darüber treffen, ob es sich um arterielle oder venöse Gefä ße handelt. Bild A und B zeigen jedoch einen ähnlichen, für die Crosse typischen Gefäßverlauf, was darauf hindeutet, dass beide Bilder venöse Gefäße zeigen. Bei venösen Gefäßmündungen wie hier kann es zu leichten Verwirbelungen beim Zusammenfließen des Blutes kommen – dementsprechend zeigen die Bilder Normalbefunde und keine Pathologie.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/3.png",
       "optionsDE": [
@@ -608,6 +656,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Arterien haben eine dickere Gefäßwand als Venen, was sich sonographisch darstellen lässt. Das im Bild A rechte Gefäß zeigt eine dickere Wand als das linke. Außerdem zeigen Venen in der Nachbarschaft von Arterien oft ein größeres Lumen, welches oft nicht ganz rund ist und sich atemabhängig verändern kann. Wäre die Vene durch einen Thrombus verstopft, ließe sie sich nicht vollständig komprimieren. In Bild B wurde die Vene durch den Untersucher mit dem Schallkopf vollständig\nA A\nkomprimiert. Bild A und B zeigen somit den Normalbefund einer sogenannten -Kompressionssonographie-.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/4.png",
       "optionsDE": [
@@ -634,6 +685,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Venenklappen lassen sich sonographisch nicht immer darstellen. Kann man sie aber darstellen, geben sie auch ohne Doppler Signal sonographisch Hinweis auf eine Vene. Sie sind also ein wichtiges Unterscheidungsmerkmal zwischen Venen und Arterien.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"5\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/5.png",
       "optionsDE": [
@@ -660,6 +714,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Ein Aneurysma ist eine Aufweitung der Wand eines Gefäßes. Hier handelt es sich um ein Aneurysma sacciforme (sack- oder ballonförmige Aufweitung). Eine Stenose (Engstelle) ist bei echoleerem Lumen des Gefäßes unwahrscheinlich. Im Bereich des Aneurysmas wirkt das Lumen echoreicher, was auf eine veränderte und z.T. verlangsamte Blutzirkulation durch die Visualisierung von korpuskulären Blutanteilen hindeutet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/1.jpg",
       "optionsDE": [
@@ -686,6 +743,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Pfeil 2 zeigt auf die Bifurcatio carotis (Aufzweigung der A. carotis). Pfeil 3 zeigt das typische Bild einer arteriosklerotischen Plaque: Durch das sehr echoreiche Material(Gefäßkalk) entsteht eine dorsale Schallauslöschung, welche als Schallschatten sichtbar ist. Plaques treten häufig in Blutgefäßabschnitten auf, an denen Scherkräfte und Strömungsänderungen auf die Gefäßwand wirken, wie bei Verzweigungen (wie im gezeigten Beispiel) oder Gefäßkrümmungen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"2\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/2.png",
       "optionsDE": [
@@ -712,6 +772,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Arteriosklerotische Plaques werden, je nach Symptomatik, erst bei einem Stenosegrad von >50% behandelt. Ein Notfall läge beispielsweise vor, wenn Schlaganfallsymptome bestehen, die sich auf eine Plaqueruptur zurückführen lassen. Bei asymptomatischen Patient*innen liegt hier aber kein Notfall vor. Geringe arteriosklerotische Plaques sind keine relevanten Engstellen und werden weder kathetertechnisch noch operativ behandelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/3.jpg",
       "optionsDE": [
@@ -738,6 +801,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Bei gesunden Erwachsenen beträgt der Durchmesser der Aorta ca. 2,5-3,5cm. Der hier gezeigte Befund mit einem Durchmesser von maximal 4,21 cm stellt ein Bauchaortenaneurysma dar. Operativ behandelt wird ein Bauchaortenaneurysma in der Regel ab einem Durchmesser von 5,0 cm bei Frauen oder5,5 cm bei Männern oder einem sehr raschen Wachstum des Aneurysmas. Der weiße Pfeil deutet auf einen wandständigen Thrombus (geronnenes Blut) hin.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/4.png",
       "optionsDE": [
@@ -790,6 +856,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Für reproduzierbare Messungen sollten die Diameter so gemessen werden, das die Messungen orthogonal zueinander und am breitesten Durchmesser liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"6\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/6.jpg",
       "optionsDE": [
@@ -816,6 +885,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Ein -falsches- oder iatrogen bedingtes Aneurysma (Aneurysma spurium) ist keine primär pathologische Gefäßaufweitung einer Arterie, sondern eine eingriffsbedingte, blutgefüllte Aussackung innerhalb der Gefäßwand, die mit dem Lumen der Arterie in Verbindung steht. Der Stichkanal, z.B. nach einer Gefäßpunktion, bildet dabei den Hals des falschen Aneurysmas. Der Hals lässt sich auch durch eine charakteristische Dopplerkurve nachweisen (hier nicht dargestellt). Eine Bakerzyste zeigt normalerweise kein Farbsignal oder einen dopplersonographischen Flussnachweis, da es sich hierbei um eine nicht vaskularisierte Zyste handelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/7.png",
       "optionsDE": [
@@ -842,6 +914,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Typisch für den Farbjet eines Aneurysma spurium ist der Pendelfluss: Dieser entsteht durch unterschiedliche Druckverhältnisse. Während in der Systole das Blut in das Aneurysma hineingepresst wird (rotes Farbsignal), fließt es in der Diastole zurück in das Gefäß (blaues Farbsignal).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"8\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/8.gif",
       "optionsDE": [
@@ -894,6 +969,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene (2 verschiedene Gefäße). Hier ist jedoch nur ein Gefäß, die A. radialis, zu sehen. Der Pfeil zeigt auf eine intraluminale Struktur, die sich mittels Ultraschall nicht eindeutig identifizieren lässt. Diese ist entweder ein -intimaler Flap- oder eine Gefäßdissektion (Einriss einer Gefäßwandschicht) .",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"10\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/10.png",
       "optionsDE": [
@@ -920,6 +998,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der -Aliasing-Effekt- ist ein Artefakt der Doppler-Sonographie. Hierbei werden in der Farbdarstellung Blutflussgeschwindigkeiten oft fälschlicherweise zu hoch oder in die andere Richtung dargestellt. Dies kann ein Zeichen für zu hohe oder turbulente Blutströme sein. Die hier gezeigte zugehörige Dopplerkurve zeigt jedoch einen Normalbefund.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"11\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/11.jpg",
       "optionsDE": [
@@ -950,7 +1031,7 @@
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/12.png",
       "optionsDE": [
         "Pfeil 1 zeigt auf einen stark kalzifizierten arteriosklerotischen Plaque einer Arterie.",
-        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschall durch den Kalkplaque auftritt.",
+        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschalls durch den Kalkplaque auftritt.",
         "Der Kalkplaque verursacht einen kompletten Gefäßverschluss. ",
         "Arteriosklerotische Plaques sind normalerweise fettreich und sehr selten verkalkt."
       ],
@@ -972,6 +1053,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Einen venösen Thrombus kann man sonographisch an seiner erhöhten Echogenität und an seiner unregelmäßigen, intraluminalen Struktur erkennen. Die Vene kann man hier von der Arterie unterscheiden, da sein Lumen nicht ganz rund ist und die Vene eine dünnere Gefäßwand besitzt als die Arterie (hier unterhalb der Vene). Ein arteriosklerotischer, arterieller Plaque würde an der Arterienwand haften und nicht wie der venöse Thrombus hier frei im Lumen liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/1.png",
       "optionsDE": [
@@ -1024,6 +1108,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Hier sieht man einen Thrombus in der Vena jugularis interna. Da diese Vene anatomisch unter dem M. sternocleidomasteoideus liegt, sind die Vene und auch der Thrombus (grüner Pfeil) nicht tastbar. Bei oberflächlichen Thrombophlebitiden z.B. in der V. saphena magna, kann ein tastbarer schmerzhafter Strang typisch sein. Der venöse Blutfluss ist links mit abgegrenzten Farbflächen (blau und rot) gekennzeichnet, was leichte Verwirbelungen des Blutes im Bereich des\n  Thrombus anzeigt (linkes Bild, Längsschnitt durch die Vene).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/3.png",
       "optionsDE": [
@@ -1050,6 +1137,9 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Ein solcher venöser Thrombus kann gefährlich werden, da der Thrombus sich von der Gefäßwand lösen und abschwimmen kann. So kann er über den venösen Blutfluss Lungengefäße erreichen und zu einer Lungenembolie führen. Ein organisierter, älterer Thrombus haftet hingegen meist sehr fest an der Wand, bewegt sich nicht frei im Blutstrom und hat somit ein geringes Embolierisiko.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/4.gif",
       "optionsDE": [
@@ -1128,6 +1218,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene. Diese kann man im Ultraschall anhand des turbulenten Mischflusses und „Aliasing“ erkennen. Die Farben wechseln schnell zwischen Rot und Blau. Manchmal kann man ein -Jet-Phänomen- erkennen, bei dem deutlich sichtbare helle Farbjets vom arteriellen in das venöse Lumen strömen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/7.gif",
       "optionsDE": [
@@ -1179,9 +1272,9 @@
     "Duplexsonographie",
     {
       "correctOptionIndex": 1,
-      "explanationDE": "Dies ist eine Test Erklärung.",
-      "explanationEN": "This an example explanation.",
-      "explanationFR": "Ceci est une déclaration de test.",
+      "explanationDE": "Aufgrund der Position des Schallkopfes sind zwar häufig Venen blau und Arterien rot dargestellt, aber In diesem Bild ist nicht klar, wie der Schallkopf während der Untersuchung positioniert war. Deshalb lässt sich anhand der Färbung keine Aussage über die Art der Gefäße, sondern nur ü ber die Blutflussrichtung treffen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/1.jpg",
       "optionsDE": [
@@ -1208,6 +1301,9 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Die Abbildung zeigt kein B-Bild, da es einen farbigen Bereich, sowie eine Blutflussgeschwindigkeitskurve, ermittelt durch die Doppler-Sonographie, zeigt. Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Die Aorta würde Seitäste abgeben und hätte typischerweise einen geraderen Verlauf.",
+      "explanationEN": "This an example explanation.",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"2\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/2.png",
       "optionsDE": [
@@ -1234,6 +1330,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Aufgrund des pulsatilen Charakters der Blutflussgeschwindigkeitskurven sind diese Arterien zuzuordnen. Kurve 1 zeigt den typischen Verlauf eines peripheren Gefäßes, während Kurve 2 den typischen Verlauf eines proximalen Gefäßes mit geringem Widerstand zeigt (z.B. A. carotis communis). Die Peak systolische Geschwindigkeit lässt sich am höchsten Punkt der jeweiligen Kurven ablesen: Kurve 1 ca. 80cm/s, Kurve 2 ca. 60cm/s. Turbulente Flussgeschwindigkeiten sind meist deutlich höher, bis zu 200cm/s.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/3.png",
       "optionsDE": [
@@ -1260,6 +1359,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Durch die „Invert“-Funktion lassen sich die dargestellten Farben umkehren. Da hier die Färbung also ursprünglich blau war, fließt das Blut tatsächlich vom Schallkopf weg.\nDie Signale der Vene sind atemabhängig und zeigen keinen pulsatilen Verlauf.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "Quizfragen_Bilder/1_Basics/4.jpg",
       "optionsDE": [
@@ -1287,6 +1389,9 @@
     {
       "correctOptionIndex": 3,
       "id": "\"5\"",
+      "explanationDE": "Der frühdiastolische Rückfluss (Dip) kommt physiologisch dadurch zustande, dass das Blut aufgrund des Schlusses der Aortenklappe und der elastischen Rückstellung der Gefäßwände kurzzeitig retrograd fließt.\nDie peak-systolische Flussgeschwindigkeit ist die höchste Geschwindigkeit, mit der das Blut in der Systole durch eine Arterien fließt. Sie kann an der rechts im Bild dargestellten Skala abgelesen werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/5.jpg",
       "optionsDE": [
         "Diese Abbildung zeigt das sogenannte triphasische  Dopplersignal einer Arterie.",
@@ -1313,6 +1418,9 @@
     {
       "correctOptionIndex": 1,
       "id": "\"6\"",
+      "explanationDE": "Pulsatil beschreibt eine arterielle Flusskurve, bei der ein deutlich rhythmisches Signal mit den typischen Phasen der Geschwindigkeit des Herzzyklus erkannt werden kann(Beispiel: Kurve 1). In Kurve 2 hingegen, sieht man einen fast gleichmäßigen, kontinuierlichen Blutfluss, bei dem die Werte nahe an der Nulllinie liegen, das Blut also geringe Geschwindigkeiten annimmt. Das entspricht am ehesten der Flusskurve einer Vene, da diese atemabhängig ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/6.png",
       "optionsDE": [
         "Beide Kurven stellen eindeutig ein arterielles Gefäß dar.",
@@ -1366,6 +1474,9 @@
     {
       "correctOptionIndex": 1,
       "id": "\"8\"",
+      "explanationDE": "In der unten abgebildeten Flusskurve ist ein typische Dopplersignal der A. Carotis communis zu sehen. Pfeil 1 zeigt auf die peak-systolische Geschwindigkeit. Pfeil 2 und 4 zeigen auf die Diastole. Die Klammer bei 3 zeigt die Systole an. Diese Flusskurve muss deutlich von einer Flusskurve eines anderen arteriellen Gefäßes unterschieden werden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "imageUrl": "Quizfragen_Bilder/1_Basics/8.png",
       "optionsDE": [
         "Pfeil 1 zeigt auf den Gipfel der Flusskurve und somit auf die systolische Peak Geschwindigkeit.",
@@ -1394,6 +1505,9 @@
     "Normalbefunden von Arterien",
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Diese Kurve ist aufgrund ihres pulsatilen Verlaufs eindeutig einer Arterie, nicht einer Vene zuzuordnen. Es handelt sich nicht um die Aorta abdominalis, da diese Seitäste abgeben würde. Solch ein Befund ist typisch für die Arteria carotis communis.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/1.jpg",
       "optionsDE": [
@@ -1446,6 +1560,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der steile systolische Anstieg spricht dafür, dass es sich um eine Arterie der Extremitäten handelt. Anatomisch lässt sich außerdem ein so gerader Gefäßverlauf eher nicht bei der A. cerebri media bzw. A. coronaria sinistra finden.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/3.jpg",
       "optionsDE": [
@@ -1472,6 +1589,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Das triphasische Dopplersignal ist der Normalbefund bei der Dopplersonographie der Arterien. Die Dopplerkurve besteht aus drei verschiedenen Abschnitten: beginnend mit einem steilen Anstieg wird die Systole sichtbar, darauf folgt ein schneller Abfall der Flussgeschwindigkeit mit einer kurzen Rückflusskomponente (je nach Gefäß) zu Beginn der Diastole. Anschließend erneut ein Vorwärtsfluss, in der späten Diastole.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/4.jpg",
       "optionsDE": [
@@ -1498,6 +1618,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Die Kurve zeigt ein triphasisches Doppler-Signal. Knochenstrukturen zeigen sich sonographisch echoreich. Der weiße Pfeil zeigt auf eine solche echoreiche knöcherne Struktur nahe der Arterie.\nEine vollständig verschlossene Arterie hätte keinen Blutfluss mehr - hier ist durch die Farbkodierung jedoch definitiv ein Blutfluss zu erkennen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"5\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/5.png",
       "optionsDE": [
@@ -1524,6 +1647,9 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Sind wie hier zwei Gefäße zu sehen, kann man mithilfe des Dopplersignales und der Blutflussgeschwindigkeitskurve Arterie und Vene unterscheiden. Eine Voraussetzung ist, das Sample Volume in dem Gefäß zu positionieren, das man charakterisieren möchte.\nNeben der A. carotis communis verläuft die V. jugularis interna, nicht die V. jugularis externa. Große Kalkablagerungen sind hier nicht zu sehen. Diese präsentieren sich typischerweise als wandständige, echoreiche -Vorwölbungen-",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"6\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/6.jpg",
       "optionsDE": [
@@ -1550,13 +1676,16 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Vor einer arteriellen Gefäßengstelle würde man turbulenten Blutfluss (also verschiedene Farben) und hohe Blutflussgeschwindigkeiten erwarten. Wieder zeigt sich ein pulsatiles Signal, weshalb es sich hier nicht um eine Vene handeln kann. Die blaue Farbe hängt von der Position des Schallkopfes während der Untersuchung ab und führt nicht dazu, dass ein Bild nicht interpretierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/7.jpg",
       "optionsDE": [
         "Die Abbildung zeigt eine schwere arterielle Gefäßengstelle an. ",
         "Die gestrichelte Linie im oberen rechten Quandranten der Abbildung zeigt die Messung des Innendurchmessers dieses Gefäßes an.",
-        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäßes, welches im Innendurchmesser eingeengt ist.",
-        "Die Abbildung kann nicht interpretiert werden da eine blaue Farbe im Blutgefäß nicht zu warten war."
+        "Das Doppler Signal der Abbildung zeigt ein venöses Gefäß, welches im Innendurchmesser eingeengt ist.",
+        "Die Abbildung kann nicht interpretiert werden, da eine blaue Farbe im Blutgefäß nicht zu erwarten war."
       ],
       "optionsEN": [
         "A severe narrowing of the blood vessel is shown.",
@@ -1576,6 +1705,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der periphere Gefäßwiderstand lässt sich anhand der Blutflussgeschwindigkeitskurve ungefähr abschätzen. Sehr steile Kurven gehören zu Gefäßen mit hohem peripherem Gefäßwiderstand, flache Kurven eher zu Gefäßen mit geringerem peripheren Gefäßwiderstand. Hier ist zu erkennen, dass die A. carotis externa eine steilere Kuve, also einen höheren peripheren Gefäßwiderstand, als die A. carotis interna hat. Grund hierfür sind die unterschiedlichen Versorgungsgebiete der Arterien. Mit ca. 50cm/s und 60cm/s sind die PSVs dennoch recht ähnlich.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"8\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/8.png",
       "optionsDE": [
@@ -1628,6 +1760,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Anhand der Flusskurve kann man bereits abschätzen, dass es sich um ein peripheres Gefäß handeln muss. Zu sehen ist hier also nicht die A. carotis interna, sondern die A. femoralis communis. Ein “Okklusions“-Doppler Signal bedeutet, dass man während der Sonographie von einem Gefäß nur wenige bis stark gedämpfte Signale ableiten kann, beispielsweise aufgrund von Stenosen oder Verengungen. Solch ein Signal ist hier nicht abgebildet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"10\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/10.jpg",
       "optionsDE": [
@@ -1654,6 +1789,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Die A. carotis communis und die A. vertebralis versorgen beide das Gehirn mit sauerstoffreichem Blut, das vom Herzen kommt. Der Blutfluss findet also nicht gegenläufig sondern in die gleiche Richtung statt. Beim „Subclavian Steel Syndrom“ verlaufen die Blutflüsse der beiden Gefäße gegenläufig, allerdings ist der Befund dann pathologisch.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"11\"",
       "imageUrl": "Quizfragen_Bilder/2_Normalbefunden_von_Arterien/11.png",
       "optionsDE": [
@@ -1709,10 +1847,13 @@
     "Normalbefunden von Venen",
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Venen haben eine elastischeren Wandaufbau als Arterien und sind oft von der Haut ausgehend, d.h. von außen komprimierbar. Lässt sich das Lumen der Vene durch Kompression mit dem Schallkopf von außen komplett verschließen (B), so ist diese wahrscheinlich nicht thrombotisch verändert. Lässt die Vene sich jedoch nicht komprimieren, kann ein Thrombus im Gefäßlumen vorliegen, da dieser die Vene starr macht und das Lumen füllt, wodurch sie nicht mehr komprimierbar ist.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/1.png",
       "optionsDE": [
-        "Zu sehen ist im oberen Bild (A) eine offenen Vene.",
+        "Zu sehen ist im oberen Bild (A) eine offene Vene.",
         "Die Befunde beider Bilder lassen auf einen thrombotischen Verschluss  der Vene schließen.",
         "Venen sind beim gesunden Menschen nicht von außen komprimierbar.",
         "Während einer Kompression (Bild B) kann man nicht erkennen, ob die Vene offen oder verstopft ist."
@@ -1761,6 +1902,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Anhand des Farbsignals alleine lässt sich keine Aussage darüber treffen, ob es sich um arterielle oder venöse Gefä ße handelt. Bild A und B zeigen jedoch einen ähnlichen, für die Crosse typischen Gefäßverlauf, was darauf hindeutet, dass beide Bilder venöse Gefäße zeigen. Bei venösen Gefäßmündungen wie hier kann es zu leichten Verwirbelungen beim Zusammenfließen des Blutes kommen – dementsprechend zeigen die Bilder Normalbefunde und keine Pathologie.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/3.png",
       "optionsDE": [
@@ -1787,6 +1931,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Arterien haben eine dickere Gefäßwand als Venen, was sich sonographisch darstellen lässt. Das im Bild A rechte Gefäß zeigt eine dickere Wand als das linke. Außerdem zeigen Venen in der Nachbarschaft von Arterien oft ein größeres Lumen, welches oft nicht ganz rund ist und sich atemabhängig verändern kann. Wäre die Vene durch einen Thrombus verstopft, ließe sie sich nicht vollständig komprimieren. In Bild B wurde die Vene durch den Untersucher mit dem Schallkopf vollständig\nA A\nkomprimiert. Bild A und B zeigen somit den Normalbefund einer sogenannten -Kompressionssonographie-.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/4.png",
       "optionsDE": [
@@ -1813,6 +1960,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Venenklappen lassen sich sonographisch nicht immer darstellen. Kann man sie aber darstellen, geben sie auch ohne Doppler Signal sonographisch Hinweis auf eine Vene. Sie sind also ein wichtiges Unterscheidungsmerkmal zwischen Venen und Arterien.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"5\"",
       "imageUrl": "/Quizfragen_Bilder/3_Normalbefunden_von_Venen/5.png",
       "optionsDE": [
@@ -1842,6 +1992,9 @@
     "Pathologien von Arterien",
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Ein Aneurysma ist eine Aufweitung der Wand eines Gefäßes. Hier handelt es sich um ein Aneurysma sacciforme (sack- oder ballonförmige Aufweitung). Eine Stenose (Engstelle) ist bei echoleerem Lumen des Gefäßes unwahrscheinlich. Im Bereich des Aneurysmas wirkt das Lumen echoreicher, was auf eine veränderte und z.T. verlangsamte Blutzirkulation durch die Visualisierung von korpuskulären Blutanteilen hindeutet.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/1.jpg",
       "optionsDE": [
@@ -1868,6 +2021,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Pfeil 2 zeigt auf die Bifurcatio carotis (Aufzweigung der A. carotis). Pfeil 3 zeigt das typische Bild einer arteriosklerotischen Plaque: Durch das sehr echoreiche Material(Gefäßkalk) entsteht eine dorsale Schallauslöschung, welche als Schallschatten sichtbar ist. Plaques treten häufig in Blutgefäßabschnitten auf, an denen Scherkräfte und Strömungsänderungen auf die Gefäßwand wirken, wie bei Verzweigungen (wie im gezeigten Beispiel) oder Gefäßkrümmungen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"2\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/2.png",
       "optionsDE": [
@@ -1894,6 +2050,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Arteriosklerotische Plaques werden, je nach Symptomatik, erst bei einem Stenosegrad von >50% behandelt. Ein Notfall läge beispielsweise vor, wenn Schlaganfallsymptome bestehen, die sich auf eine Plaqueruptur zurückführen lassen. Bei asymptomatischen Patient*innen liegt hier aber kein Notfall vor. Geringe arteriosklerotische Plaques sind keine relevanten Engstellen und werden weder kathetertechnisch noch operativ behandelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/3.jpg",
       "optionsDE": [
@@ -1920,6 +2079,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Bei gesunden Erwachsenen beträgt der Durchmesser der Aorta ca. 2,5-3,5cm. Der hier gezeigte Befund mit einem Durchmesser von maximal 4,21 cm stellt ein Bauchaortenaneurysma dar. Operativ behandelt wird ein Bauchaortenaneurysma in der Regel ab einem Durchmesser von 5,0 cm bei Frauen oder5,5 cm bei Männern oder einem sehr raschen Wachstum des Aneurysmas. Der weiße Pfeil deutet auf einen wandständigen Thrombus (geronnenes Blut) hin.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/4.png",
       "optionsDE": [
@@ -1972,6 +2134,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Für reproduzierbare Messungen sollten die Diameter so gemessen werden, das die Messungen orthogonal zueinander und am breitesten Durchmesser liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"6\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/6.jpg",
       "optionsDE": [
@@ -1998,6 +2163,9 @@
     },
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Ein -falsches- oder iatrogen bedingtes Aneurysma (Aneurysma spurium) ist keine primär pathologische Gefäßaufweitung einer Arterie, sondern eine eingriffsbedingte, blutgefüllte Aussackung innerhalb der Gefäßwand, die mit dem Lumen der Arterie in Verbindung steht. Der Stichkanal, z.B. nach einer Gefäßpunktion, bildet dabei den Hals des falschen Aneurysmas. Der Hals lässt sich auch durch eine charakteristische Dopplerkurve nachweisen (hier nicht dargestellt). Eine Bakerzyste zeigt normalerweise kein Farbsignal oder einen dopplersonographischen Flussnachweis, da es sich hierbei um eine nicht vaskularisierte Zyste handelt.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/7.png",
       "optionsDE": [
@@ -2024,6 +2192,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Typisch für den Farbjet eines Aneurysma spurium ist der Pendelfluss: Dieser entsteht durch unterschiedliche Druckverhältnisse. Während in der Systole das Blut in das Aneurysma hineingepresst wird (rotes Farbsignal), fließt es in der Diastole zurück in das Gefäß (blaues Farbsignal).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"8\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/8.gif",
       "optionsDE": [
@@ -2076,6 +2247,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene (2 verschiedene Gefäße). Hier ist jedoch nur ein Gefäß, die A. radialis, zu sehen. Der Pfeil zeigt auf eine intraluminale Struktur, die sich mittels Ultraschall nicht eindeutig identifizieren lässt. Diese ist entweder ein -intimaler Flap- oder eine Gefäßdissektion (Einriss einer Gefäßwandschicht) .",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"10\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/10.png",
       "optionsDE": [
@@ -2102,6 +2276,9 @@
     },
     {
       "correctOptionIndex": 3,
+      "explanationDE": "Der -Aliasing-Effekt- ist ein Artefakt der Doppler-Sonographie. Hierbei werden in der Farbdarstellung Blutflussgeschwindigkeiten oft fälschlicherweise zu hoch oder in die andere Richtung dargestellt. Dies kann ein Zeichen für zu hohe oder turbulente Blutströme sein. Die hier gezeigte zugehörige Dopplerkurve zeigt jedoch einen Normalbefund.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"11\"",
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/11.jpg",
       "optionsDE": [
@@ -2132,7 +2309,7 @@
       "imageUrl": "/Quizfragen_Bilder/4_Pathologien_von_Arterien/12.png",
       "optionsDE": [
         "Pfeil 1 zeigt auf einen stark kalzifizierten arteriosklerotischen Plaque einer Arterie.",
-        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschall durch den Kalkplaque auftritt.",
+        "Pfeil 2 zeigt nicht die Region im sonographischen Bild an, in der ein „akustischer Schatten“ des Ultraschalls durch den Kalkplaque auftritt.",
         "Der Kalkplaque verursacht einen kompletten Gefäßverschluss. ",
         "Arteriosklerotische Plaques sind normalerweise fettreich und sehr selten verkalkt."
       ],
@@ -2157,6 +2334,9 @@
     "Pathologien von Venen",
     {
       "correctOptionIndex": 1,
+      "explanationDE": "Einen venösen Thrombus kann man sonographisch an seiner erhöhten Echogenität und an seiner unregelmäßigen, intraluminalen Struktur erkennen. Die Vene kann man hier von der Arterie unterscheiden, da sein Lumen nicht ganz rund ist und die Vene eine dünnere Gefäßwand besitzt als die Arterie (hier unterhalb der Vene). Ein arteriosklerotischer, arterieller Plaque würde an der Arterienwand haften und nicht wie der venöse Thrombus hier frei im Lumen liegen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"1\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/1.png",
       "optionsDE": [
@@ -2209,6 +2389,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Hier sieht man einen Thrombus in der Vena jugularis interna. Da diese Vene anatomisch unter dem M. sternocleidomasteoideus liegt, sind die Vene und auch der Thrombus (grüner Pfeil) nicht tastbar. Bei oberflächlichen Thrombophlebitiden z.B. in der V. saphena magna, kann ein tastbarer schmerzhafter Strang typisch sein. Der venöse Blutfluss ist links mit abgegrenzten Farbflächen (blau und rot) gekennzeichnet, was leichte Verwirbelungen des Blutes im Bereich des\n  Thrombus anzeigt (linkes Bild, Längsschnitt durch die Vene).",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"3\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/3.png",
       "optionsDE": [
@@ -2235,6 +2418,9 @@
     },
     {
       "correctOptionIndex": 0,
+      "explanationDE": "Ein solcher venöser Thrombus kann gefährlich werden, da der Thrombus sich von der Gefäßwand lösen und abschwimmen kann. So kann er über den venösen Blutfluss Lungengefäße erreichen und zu einer Lungenembolie führen. Ein organisierter, älterer Thrombus haftet hingegen meist sehr fest an der Wand, bewegt sich nicht frei im Blutstrom und hat somit ein geringes Embolierisiko.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"4\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/4.gif",
       "optionsDE": [
@@ -2313,6 +2499,9 @@
     },
     {
       "correctOptionIndex": 2,
+      "explanationDE": "Eine arteriovenöse Fistel beschreibt eine pathologische Verbindung zwischen einer Arterie und Vene. Diese kann man im Ultraschall anhand des turbulenten Mischflusses und „Aliasing“ erkennen. Die Farben wechseln schnell zwischen Rot und Blau. Manchmal kann man ein -Jet-Phänomen- erkennen, bei dem deutlich sichtbare helle Farbjets vom arteriellen in das venöse Lumen strömen.",
+      "explanationEN": "Explanation not yet available in English",
+      "explanationFR": "Déclaration non encore disponible en français",
       "id": "\"7\"",
       "imageUrl": "/Quizfragen_Bilder/5_Pathologien_von_Venen/7.gif",
       "optionsDE": [

@@ -87605,7 +87605,7 @@ for(p=J.ay(l),o=t.a,n=1;n<p.gt(l);++n){m=p.h(l,n)
 if(o.b(m))k.push(A.tM(m,J.aR(m,"imageUrl")))}q.a_(new A.amE(q,k))
 return A.M(null,r)}})
 return A.N($async$cq,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Alle Quizfragen",e="All Questions",d="Toutes les questions"
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Duplexsonographie",e="Duplex Sonography",d="\xc9chographie Duplex"
 if(h.d==null){if($.a9)s=f
 else s=$.a_?e:d
 s=A.ab(s,g,g,g,g,g,g,g,g,g,g,g)
@@ -87919,7 +87919,7 @@ for(p=J.ay(l),o=t.a,n=1;n<p.gt(l);++n){m=p.h(l,n)
 if(o.b(m))k.push(A.tM(m,J.aR(m,"imageUrl")))}q.a_(new A.an3(q,k))
 return A.M(null,r)}})
 return A.N($async$cq,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Alle Quizfragen",e="All Questions",d="Toutes les questions"
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Normalbefunde von Arterien",e="Normal Findings Arteries",d="R\xe9sultats normaux des art\xe8res"
 if(h.d==null){if($.a9)s=f
 else s=$.a_?e:d
 s=A.ab(s,g,g,g,g,g,g,g,g,g,g,g)
@@ -88233,7 +88233,7 @@ for(p=J.ay(l),o=t.a,n=1;n<p.gt(l);++n){m=p.h(l,n)
 if(o.b(m))k.push(A.tM(m,J.aR(m,"imageUrl")))}q.a_(new A.ant(q,k))
 return A.M(null,r)}})
 return A.N($async$cq,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Alle Quizfragen",e="All Questions",d="Toutes les questions"
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Normalbefunde von Venen",e="Normal Vein Findings",d="R\xe9sultats normaux des veines"
 if(h.d==null){if($.a9)s=f
 else s=$.a_?e:d
 s=A.ab(s,g,g,g,g,g,g,g,g,g,g,g)
@@ -88547,7 +88547,7 @@ for(p=J.ay(l),o=t.a,n=1;n<p.gt(l);++n){m=p.h(l,n)
 if(o.b(m))k.push(A.tM(m,J.aR(m,"imageUrl")))}q.a_(new A.anT(q,k))
 return A.M(null,r)}})
 return A.N($async$cq,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Alle Quizfragen",e="All Questions",d="Toutes les questions"
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Pathologien von Arterien",e="Pathologies of Arteries",d="Pathologies des art\xe8res"
 if(h.d==null){if($.a9)s=f
 else s=$.a_?e:d
 s=A.ab(s,g,g,g,g,g,g,g,g,g,g,g)
@@ -88861,7 +88861,7 @@ for(p=J.ay(l),o=t.a,n=1;n<p.gt(l);++n){m=p.h(l,n)
 if(o.b(m))k.push(A.tM(m,J.aR(m,"imageUrl")))}q.a_(new A.aoi(q,k))
 return A.M(null,r)}})
 return A.N($async$cq,r)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Alle Quizfragen",e="All Questions",d="Toutes les questions"
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Pathologien von Venen",e="Pathologies of Veins",d="Pathologies des veines"
 if(h.d==null){if($.a9)s=f
 else s=$.a_?e:d
 s=A.ab(s,g,g,g,g,g,g,g,g,g,g,g)
